@@ -1,25 +1,3 @@
 [user]
-	name = Spencer Rinehart
-	email = anubis@overthemonkey.com
-[color]
-	ui = true
-[diff]
-	tool = vimdiff
-	renames = copy
-[merge]
-	conflictstyle = diff3
-	tool = vimdiff
-[rerere]
-	enabled = true
-[alias]
-	plog = log --graph --all --oneline --decorate
-	mergelog = log --graph --oneline --decorate --merges
-	dc = diff --cached
-	dcs = diff --cached --stat
-	ci = commit -v
-[heroku]
-	account = work
-[push]
-	default = simple
-[tag]
-	sort = version:refname
+	name = Daniel Allen
+	email = dancallen@gmail.com
